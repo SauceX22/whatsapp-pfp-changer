@@ -1,0 +1,21 @@
+{
+	"name": "whatsapp-pfp-changer",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"node-cron": "^3.0.2",
+		"puppeteer": "^19.4.0",
+		"qrcode-terminal": "^0.12.0",
+		"whatsapp-web.js": "^1.21.0"
+	},
+	"devDependencies": {
+		"@types/node-cron": "^3.0.7"
+	}
+}
